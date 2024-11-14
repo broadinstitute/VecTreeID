@@ -3,7 +3,9 @@
 ##### Maintained by Genomic Center for Infectious Diseases @ Broad Institute of MIT & Harvard
 
 Contact: Jason Travis Mohabir (jmohabir@broadinstitute.org)
+
 Public repository for the amplicon taxonomic identification in the Neafsey lab.
+
 See the README in each corresponding pipeline for usage.
 
 ## Installation
