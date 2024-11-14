@@ -1,13 +1,9 @@
-# VectorAmpSeq: Taxonomic Identification Pipeline 
-
+# VecTreeID : Taxonomic Identification Pipeline 
 ##### Created for Neafsey Lab @ Harvard School of Public Health
+##### Maintained by Genomic Center for Infectious Diseases @ Broad Institute of MIT & Harvard
 
-###### Maintained by Genomic Center for Infectious Diseases @ Broad Institute of MIT & Harvard
-
-Contact: Jason T. Mohabir (jmohabir@broadinstitute.org)
-
+Contact: Jason Travis Mohabir (jmohabir@broadinstitute.org)
 Public repository for the amplicon taxonomic identification in the Neafsey lab.
-
 See the README in each corresponding pipeline for usage.
 
 ## Installation
