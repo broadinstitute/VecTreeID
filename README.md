@@ -31,6 +31,8 @@ A detail description on creating a conda environment is given here: https://cond
 
 ### Important Note 
 
+Source: https://github.com/etetoolkit/ete/pull/636
+
 The version of `ete3` used is unable to parse the jplace output from EPA-ng. Users will need to manually update the 'newick.py' file in the conda environment after it has been initially created. 
 
 Replace the `/lib/python3.10/site-packages/ete3/parser/newick.py` file with the `newick.py' file provided. 
